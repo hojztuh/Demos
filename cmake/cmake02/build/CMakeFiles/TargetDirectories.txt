@@ -1,0 +1,6 @@
+/home/ubuntu/Projects/Demos/cmake/cmake02/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Projects/Demos/cmake/cmake02/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Projects/Demos/cmake/cmake02/build/bin/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Projects/Demos/cmake/cmake02/build/bin/CMakeFiles/edit_cache.dir
+/home/ubuntu/Projects/Demos/cmake/cmake02/build/bin/CMakeFiles/hello.dir
+/home/ubuntu/Projects/Demos/cmake/cmake02/build/bin/CMakeFiles/hello_static.dir
